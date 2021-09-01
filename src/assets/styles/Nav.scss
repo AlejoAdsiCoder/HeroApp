@@ -1,0 +1,16 @@
+
+.header {
+    background: #303030;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__menu {
+    max-width: 525px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    list-style: none;
+}
